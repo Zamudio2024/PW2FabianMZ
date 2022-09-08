@@ -1,0 +1,44 @@
+body{
+  background-color: #53D426;
+}
+.letra{
+  color: white;
+  font-size: 25px;
+}
+.borde{
+  border: 10px outset #566573;
+}
+.cuadro{
+  width: 100%;
+  height: 10%;
+}
+.bordeN{
+  border: 1px  black;
+}
+.letra2{
+  font-size: 25px;
+}
+.fondor{
+  background-color: red;
+}
+.fondoa{
+  background-color: aqua;
+}
+.fondom{
+  background-color: purple;
+}
+.fondoy{
+  background-color: yellow;
+}
+.fondow{
+  background-color: white;
+}
+.fondov{
+  background-color: #00FF2C;
+}
+.fondop{
+  background-color: pink;
+}
+.bordex{
+  border: 2px dotted black;
+}
